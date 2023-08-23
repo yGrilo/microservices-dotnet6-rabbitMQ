@@ -1,1 +1,1 @@
-# microservices-dotnet6-rabbitMQ
+# microsservices-dotnet6-rabbitMQ
